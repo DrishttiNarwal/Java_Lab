@@ -7,6 +7,7 @@ Sets up a BufferedReader to read user input from the console.
 Presents a menu with options for calculating a factorial, generating a Fibonacci sequence, or exiting the program.
 Continuously loops until the user chooses to exit.
 Handles user choices using a switch statement, invoking the corresponding functions or exiting the loop.
+
 Factorial Calculation (calculateFactorial(int n)):
 
 Accepts an integer n as input and calculates its factorial recursively.
