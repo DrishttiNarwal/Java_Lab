@@ -13,6 +13,7 @@ sqrt(double a): Calculates the square root of a number.
 power(double a, double b): Raises a number to the power of another.
 mean(double[] numbers): Calculates the mean of an array of numbers.
 variance(double[] numbers): Calculates the variance of an array of numbers.
+
 MainCalculator Class:
 
 Provides the user interface for interacting with the calculator.
